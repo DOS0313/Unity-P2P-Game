@@ -3242,7 +3242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxSpeed: 5
-  jumpForce: 10
+  jumpForce: 15
   minAnimationSpeed: 0.3
   animationSpeedMultiplier: 0.2
   runThreshold: 0.4
